@@ -21,7 +21,7 @@ The elements of this project were developed for the diagramming software [draw.i
 
 All available elements in the [latest release](/releases/latest).
 
-![All Elements](Assets\All_Elements.png)
+![All Elements](Assets/All_Elements.png)
 
 ### Credits and Funny Tools
 
