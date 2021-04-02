@@ -16,3 +16,13 @@ The elements of this project were developed for the diagramming software [draw.i
 2. Open [draw.io](https://app.diagrams.net/) in your browser or the app installed on your desktop.
 3. With the app open, click File, and then click Open Library.
 4. Go to the folder where you saved the release and select the file Library C4 Model.xml and you are done!
+
+## Available Elements
+
+All available elements in the [latest release](/releases/latest).
+
+![All Elements](Assets\All_Elements.png)
+
+### Credits and Funny Tools
+
+[Fantasy Name Generators](https://www.fantasynamegenerators.com/hobbit_names.php): Used to generate random names in example diagrams
