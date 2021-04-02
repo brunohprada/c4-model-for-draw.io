@@ -19,10 +19,11 @@ The elements of this project were developed for the diagramming software [draw.i
 
 ## Available Elements
 
-All available elements in the [latest release](/releases/latest).
+All available elements in the [latest release](https://github.com/brunohprada/c4-model-for-draw.io/releases/latest).
 
 ![All Elements](Assets/All_Elements.png)
 
 ### Credits and Funny Tools
 
-[Fantasy Name Generators](https://www.fantasynamegenerators.com/hobbit_names.php): Used to generate random names in example diagrams
+- [Fantasy Name Generators](https://www.fantasynamegenerators.com/): Used to generate random names in example diagrams
+- [DeepL](https://www.deepl.com/press.html): Used to generate English language documentation
