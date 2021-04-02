@@ -23,6 +23,36 @@ All available elements in the [latest release](https://github.com/brunohprada/c4
 
 ![All Elements](Assets/All_Elements.png)
 
+## Context Diagram Example
+
+Example context diagram taken from [c4model.com](https://c4model.com/img/bigbankplc-SystemContext.png) produced with the elements of this project.
+
+![Context Diagram](Assets/A_System_Context_Diagram.png)
+
+## Container Diagram Example
+
+Example container diagram taken from [c4model.com](https://c4model.com/img/bigbankplc-Containers.png) produced with the elements of this project.
+
+![Container Diagram](Assets/B_Container_Diagram.png)
+
+## Component Diagram Example
+
+Example component diagram taken from [c4model.com](https://c4model.com/img/bigbankplc-Components.png) produced with the elements of this project.
+
+![Component Diagram](Assets/C_Components_Diagram.png)
+
+## Deployment Diagram Example
+
+Example deployment diagram taken from [c4model.com](https://c4model.com/img/bigbankplc-LiveDeployment.png) produced with the elements of this project.
+
+![Deployment Diagram](Assets/D_Deployment_Diagram.png)
+
+## Landscape
+
+Landscape of all diagrams and their positions just to inform. This image is not part of C4 Model.
+
+![Landscape](Assets/Infographic.png)
+
 ### Credits and Funny Tools
 
 - [Fantasy Name Generators](https://www.fantasynamegenerators.com/): Used to generate random names in example diagrams
