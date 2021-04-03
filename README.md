@@ -51,7 +51,7 @@ Example deployment diagram taken from [c4model.com](https://c4model.com/img/bigb
 
 Landscape of all diagrams and their positions just to inform. This image is not part of C4 Model.
 
-![Landscape](Assets/Infographic.png)
+![Landscape](Assets\Infographic_L.png)
 
 ### Credits and Funny Tools
 
